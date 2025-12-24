@@ -58,7 +58,7 @@ Single and double hand waves are used to control ON/OFF actions.
 
 - `Code/` – Embedded C source code
 - `Documentation/` – Project report (PDF)
-- `Circuit_Diagrams/` – Block diagram, circuit diagram, flowchart
+- `Circuit_Diagrams/` – Block diagram, flowchart
 - `Images/` – Hardware setup images
 
 ---
